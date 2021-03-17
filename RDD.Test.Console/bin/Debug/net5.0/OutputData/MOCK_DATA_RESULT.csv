@@ -2,278 +2,278 @@
 True,True,True,True,True,Angel Crandon,1550 Stuart Park,Schenectady,NY,12325
 True,True,True,True,True,Deck Annies,068 Kenwood Crossing,Omaha,NE,68110
 True,True,True,True,True,Maressa Pally,5892 Sage Parkway,Appleton,WI,54915
-False,False,False,False,False,Goldi Tubby,413 Hintze Park,Brockton,MA,02305
-False,False,False,False,False,Phoebe Soppett,230 Prairieview Way,Salt Lake City,UT,84152
-False,False,False,False,False,Benito Mulvaney,21349 International Hill,Santa Ana,CA,92725
-True,True,True,True,True,Dill Titchard,447 Susan Lane,Shawnee Mission,KS,66215
-False,False,False,False,False,Lorenza Naris,067 Bartillon Parkway,Chattanooga,TN,37410
-True,True,True,True,True,Willis Labarre,100 Sachs Court,East Saint Louis,IL,62205
-True,True,True,True,True,Otho Bearfoot,3266 Glacier Hill Trail,Gatesville,TX,76598
-True,True,True,True,True,Cher Cisec,41 Stoughton Road,San Jose,CA,95160
-True,True,True,True,True,Forester Luchetti,8000 Kipling Alley,Dayton,OH,45408
-False,False,False,False,False,Clari Hobbing,8 Amoth Way,Fairfield,CT,06825
-False,False,False,False,False,Modestia Weymont,56224 Raven Place,Detroit,MI,48224
-False,False,False,False,False,Tybie Frantsev,8 Blue Bill Park Pass,Portland,OR,97240
-True,True,True,True,True,Winfred McCooke,33 Di Loreto Drive,Toledo,OH,43666
-False,False,False,False,False,Bertine Greenless,64 Stephen Plaza,Des Moines,IA,50936
-True,True,True,True,True,Herta Cottie,512 Thackeray Hill,Oakland,CA,94611
-True,True,True,True,True,Eydie Byers,9964 Corscot Hill,Little Rock,AR,72215
-False,False,False,False,False,Hillel Occleshaw,8904 Dahle Center,Portland,OR,97255
-False,False,False,False,False,Gordan Sallery,75762 Oriole Drive,Glendale,CA,91205
-False,False,False,False,False,Gae Cant,5 Sloan Plaza,Nashville,TN,37250
-False,False,False,False,False,Willabella Gillbanks,55053 Independence Crossing,Washington,DC,20591
-True,True,True,True,True,Chrysa Ettridge,362 Chive Lane,Vancouver,WA,98682
-False,False,False,False,False,Denny Bassingham,5562 Randy Road,Wichita,KS,67205
-True,True,True,True,True,Tony Baterip,503 Melrose Drive,Bakersfield,CA,93305
-False,False,False,False,False,Englebert Churcher,24833 Prairieview Park,Chicago,IL,60641
-True,True,True,True,True,Kippie Siege,7 Lillian Court,Indianapolis,IN,46278
-True,True,True,True,True,Albert Berryann,9779 Pankratz Point,North Little Rock,AR,72199
-False,False,False,False,False,Burlie Doswell,18898 Harper Alley,Missoula,MT,59806
-False,False,False,False,False,Cy Gronaver,535 Lindbergh Road,Canton,OH,44760
-False,False,False,False,False,Denyse Rosencwaig,4255 Glendale Center,San Antonio,TX,78250
-True,True,True,True,True,Alvy Sperski,19354 Express Place,Migrate,KY,41905
-False,False,False,False,False,Jessalyn Baraclough,33261 Pearson Point,El Paso,TX,79994
-False,False,False,False,False,Gerard Marder,13 Artisan Center,Columbus,OH,43226
-True,True,True,True,True,Adelice Edgecumbe,9 Grayhawk Drive,Boca Raton,FL,33487
-False,False,False,False,False,Malvin Casiero,2 Bashford Court,Fresno,CA,93773
-False,False,False,False,False,Bonni Joron,12312 Toban Road,Nashville,TN,37215
-False,False,False,False,False,Davidde Talbot,66 Merchant Lane,Chicago,IL,60681
-True,True,True,True,True,Corine Raulin,42 Almo Street,Omaha,NE,68197
-False,False,False,False,False,Jaynell Flahy,9869 Jay Circle,Santa Barbara,CA,93111
-True,True,True,True,True,Chrystal Reside,27 Randy Parkway,Houston,TX,77085
-False,False,False,False,False,Leonid Sweynson,73440 Waxwing Point,Fort Pierce,FL,34981
-True,True,True,True,True,Irvin Greest,05 Service Street,Austin,TX,78769
-False,False,False,False,False,Krishnah Vannini,41 American Road,Sioux Falls,SD,57105
-False,False,False,False,False,Reggi Volleth,5628 Golf Drive,El Paso,TX,88569
-False,False,False,False,False,Antoinette Streatley,22 Schiller Lane,Denver,CO,80241
-True,True,True,True,True,Rinaldo Smuth,1924 Schmedeman Junction,Chicago,IL,60657
-True,True,True,True,True,Mara Reisenstein,6604 Mayfield Court,Rochester,NY,14624
-False,False,False,False,False,Clare O'Kerin,5 Oxford Lane,Lancaster,PA,17605
-True,True,True,True,True,Bondon Raitie,6 Forest Court,Irvine,CA,92612
+False,False,False,True,False,Goldi Tubby,413 Hintze Park,Brockton,MA,02305
+False,False,False,True,False,Phoebe Soppett,230 Prairieview Way,Salt Lake City,UT,84152
+False,False,False,True,False,Benito Mulvaney,21349 International Hill,Santa Ana,CA,92725
+True,False,True,True,False,Dill Titchard,447 Susan Lane,Shawnee Mission,KS,66215
+True,False,True,True,False,Lorenza Naris,067 Bartillon Parkway,Chattanooga,TN,37410
+True,False,True,True,False,Willis Labarre,100 Sachs Court,East Saint Louis,IL,62205
+True,True,True,False,True,Otho Bearfoot,3266 Glacier Hill Trail,Gatesville,TX,76598
+True,True,False,False,False,Cher Cisec,41 Stoughton Road,San Jose,CA,95160
+True,True,False,False,False,Forester Luchetti,8000 Kipling Alley,Dayton,OH,45408
+True,True,False,False,False,Clari Hobbing,8 Amoth Way,Fairfield,CT,06825
+True,True,False,False,False,Modestia Weymont,56224 Raven Place,Detroit,MI,48224
+False,True,False,True,False,Tybie Frantsev,8 Blue Bill Park Pass,Portland,OR,97240
+False,True,False,True,False,Winfred McCooke,33 Di Loreto Drive,Toledo,OH,43666
+False,True,False,True,False,Bertine Greenless,64 Stephen Plaza,Des Moines,IA,50936
+True,True,False,False,False,Herta Cottie,512 Thackeray Hill,Oakland,CA,94611
+True,True,False,False,False,Eydie Byers,9964 Corscot Hill,Little Rock,AR,72215
+True,True,False,False,False,Hillel Occleshaw,8904 Dahle Center,Portland,OR,97255
+True,True,False,False,False,Gordan Sallery,75762 Oriole Drive,Glendale,CA,91205
+False,True,False,True,False,Gae Cant,5 Sloan Plaza,Nashville,TN,37250
+False,True,False,True,False,Willabella Gillbanks,55053 Independence Crossing,Washington,DC,20591
+True,False,True,True,False,Chrysa Ettridge,362 Chive Lane,Vancouver,WA,98682
+True,False,True,True,False,Denny Bassingham,5562 Randy Road,Wichita,KS,67205
+True,False,True,True,False,Tony Baterip,503 Melrose Drive,Bakersfield,CA,93305
+False,True,True,False,True,Englebert Churcher,24833 Prairieview Park,Chicago,IL,60641
+False,True,True,False,True,Kippie Siege,7 Lillian Court,Indianapolis,IN,46278
+False,True,True,False,True,Albert Berryann,9779 Pankratz Point,North Little Rock,AR,72199
+False,True,True,False,True,Burlie Doswell,18898 Harper Alley,Missoula,MT,59806
+False,False,True,True,False,Cy Gronaver,535 Lindbergh Road,Canton,OH,44760
+False,False,True,True,False,Denyse Rosencwaig,4255 Glendale Center,San Antonio,TX,78250
+False,False,True,True,False,Alvy Sperski,19354 Express Place,Migrate,KY,41905
+False,False,True,False,True,Jessalyn Baraclough,33261 Pearson Point,El Paso,TX,79994
+False,False,True,False,True,Gerard Marder,13 Artisan Center,Columbus,OH,43226
+False,False,True,False,True,Adelice Edgecumbe,9 Grayhawk Drive,Boca Raton,FL,33487
+False,False,False,False,True,Malvin Casiero,2 Bashford Court,Fresno,CA,93773
+False,False,False,False,True,Bonni Joron,12312 Toban Road,Nashville,TN,37215
+False,False,False,False,True,Davidde Talbot,66 Merchant Lane,Chicago,IL,60681
+True,False,True,True,True,Corine Raulin,42 Almo Street,Omaha,NE,68197
+True,False,True,True,True,Jaynell Flahy,9869 Jay Circle,Santa Barbara,CA,93111
+True,False,True,True,True,Chrystal Reside,27 Randy Parkway,Houston,TX,77085
+False,True,False,False,False,Leonid Sweynson,73440 Waxwing Point,Fort Pierce,FL,34981
+False,True,False,False,False,Irvin Greest,05 Service Street,Austin,TX,78769
+False,True,False,False,False,Krishnah Vannini,41 American Road,Sioux Falls,SD,57105
+False,False,True,True,True,Reggi Volleth,5628 Golf Drive,El Paso,TX,88569
+False,False,True,True,True,Antoinette Streatley,22 Schiller Lane,Denver,CO,80241
+False,False,True,True,True,Rinaldo Smuth,1924 Schmedeman Junction,Chicago,IL,60657
+False,False,True,True,True,Mara Reisenstein,6604 Mayfield Court,Rochester,NY,14624
+False,True,True,False,True,Clare O'Kerin,5 Oxford Lane,Lancaster,PA,17605
+False,True,True,False,True,Bondon Raitie,6 Forest Court,Irvine,CA,92612
 False,False,False,False,False,Irvine Peealess,86193 New Castle Hill,Milwaukee,WI,53263
 False,False,False,False,False,Blanch Duthie,705 Warrior Road,Boise,ID,83732
-False,False,False,False,False,Earlie Rumming,0962 Comanche Road,Decatur,GA,30033
-False,False,False,False,False,Cecily Hutchason,356 Northport Drive,Reston,VA,22096
-False,False,False,False,False,August Kopec,5 Towne Park,Phoenix,AZ,85072
-True,True,True,True,True,Alla De Beneditti,914 Tony Junction,Burbank,CA,91505
-True,True,True,True,True,Derron McGarrahan,0 Talmadge Street,Arlington,VA,22217
-True,True,True,True,True,Guillema Conwell,0290 Mesta Hill,Sacramento,CA,95852
-False,False,False,False,False,Fianna Leeburne,176 Towne Trail,Dallas,TX,75392
-False,False,False,False,False,Lynne Boate,21 Carioca Trail,Los Angeles,CA,90035
-True,True,True,True,True,Meghan Boot,6 Ilene Hill,Albuquerque,NM,87110
-False,False,False,False,False,Anitra Rousell,1450 Homewood Crossing,Dayton,OH,45403
+False,False,False,True,False,Earlie Rumming,0962 Comanche Road,Decatur,GA,30033
+False,False,False,True,False,Cecily Hutchason,356 Northport Drive,Reston,VA,22096
+False,False,False,True,False,August Kopec,5 Towne Park,Phoenix,AZ,85072
+False,False,False,True,False,Alla De Beneditti,914 Tony Junction,Burbank,CA,91505
+True,True,False,False,True,Derron McGarrahan,0 Talmadge Street,Arlington,VA,22217
+True,True,False,False,True,Guillema Conwell,0290 Mesta Hill,Sacramento,CA,95852
+True,True,False,False,True,Fianna Leeburne,176 Towne Trail,Dallas,TX,75392
+False,True,True,False,True,Lynne Boate,21 Carioca Trail,Los Angeles,CA,90035
+False,True,True,False,True,Meghan Boot,6 Ilene Hill,Albuquerque,NM,87110
+False,True,True,False,True,Anitra Rousell,1450 Homewood Crossing,Dayton,OH,45403
 True,True,True,True,True,Gabriele Treves,371 Jenifer Road,Minneapolis,MN,55423
-False,False,False,False,False,Tedman Haswall,1 Redwing Place,Phoenix,AZ,85005
-False,False,False,False,False,Ingram Szwandt,7403 Golf Course Parkway,Shawnee Mission,KS,66225
-True,True,True,True,True,Filbert Salvatore,78 Packers Pass,Albany,NY,12242
-False,False,False,False,False,Victor Paget,7025 Warrior Plaza,York,PA,17405
-True,True,True,True,True,Allix Kirimaa,4992 Green Hill,Austin,TX,78759
-False,False,False,False,False,Brendis Indge,1501 Merry Circle,San Jose,CA,95133
-False,False,False,False,False,Donnie Klinck,08 Southridge Crossing,Corpus Christi,TX,78470
-False,False,False,False,False,Justis Guislin,99888 Main Court,Cincinnati,OH,45228
-False,False,False,False,False,Ase Ladell,52 Lotheville Street,Hampton,VA,23663
-False,False,False,False,False,Henryetta Gerbl,2849 Acker Hill,Atlanta,GA,31132
-False,False,False,False,False,Gayle Trengove,46228 Hanover Road,Amarillo,TX,79105
-True,True,True,True,True,Cecilia Jossel,4251 Atwood Point,Metairie,LA,70033
-True,True,True,True,True,Gracia Kennion,83 Corry Plaza,Los Angeles,CA,90040
+False,False,False,True,False,Tedman Haswall,1 Redwing Place,Phoenix,AZ,85005
+False,False,False,True,False,Ingram Szwandt,7403 Golf Course Parkway,Shawnee Mission,KS,66225
+True,True,False,True,True,Filbert Salvatore,78 Packers Pass,Albany,NY,12242
+True,True,False,True,True,Victor Paget,7025 Warrior Plaza,York,PA,17405
+True,True,False,True,True,Allix Kirimaa,4992 Green Hill,Austin,TX,78759
+False,False,True,False,True,Brendis Indge,1501 Merry Circle,San Jose,CA,95133
+False,False,True,False,True,Donnie Klinck,08 Southridge Crossing,Corpus Christi,TX,78470
+False,False,False,True,False,Justis Guislin,99888 Main Court,Cincinnati,OH,45228
+False,False,False,True,False,Ase Ladell,52 Lotheville Street,Hampton,VA,23663
+False,False,False,True,False,Henryetta Gerbl,2849 Acker Hill,Atlanta,GA,31132
+False,True,True,False,True,Gayle Trengove,46228 Hanover Road,Amarillo,TX,79105
+False,True,True,False,True,Cecilia Jossel,4251 Atwood Point,Metairie,LA,70033
+False,True,True,False,True,Gracia Kennion,83 Corry Plaza,Los Angeles,CA,90040
 True,True,True,True,True,Aubine Burgne,62 Nova Alley,Richmond,VA,23237
 True,True,True,True,True,Dona MacCorley,38314 Schurz Circle,Orlando,FL,32819
-True,True,True,True,True,Mychal Grinikhin,02 Hanover Road,Colorado Springs,CO,80915
-False,False,False,False,False,Ax Grint,3 Cascade Center,Jacksonville,FL,32277
-True,True,True,True,True,Courtnay Tracey,39 Swallow Plaza,Salt Lake City,UT,84152
-False,False,False,False,False,Marielle Vittery,2649 Everett Crossing,Springfield,MO,65805
-True,True,True,True,True,Nickola Ingerith,6 Logan Trail,San Bernardino,CA,92405
-True,True,True,True,True,Fabian Shemmans,61958 8th Terrace,Terre Haute,IN,47812
-False,False,False,False,False,Kit Ivetts,22622 Rockefeller Park,Carlsbad,CA,92013
-False,False,False,False,False,Kirsteni Pavie,6 Mccormick Court,Albuquerque,NM,87195
-False,False,False,False,False,Elysee Pignon,437 Porter Plaza,Irvine,CA,92612
-False,False,False,False,False,Emmalyn Vaune,95226 3rd Crossing,Paterson,NJ,07505
-True,True,True,True,True,Rosemaria Wolford,13952 Hayes Point,Los Angeles,CA,90055
-True,True,True,True,True,Beret Ivanin,989 Butterfield Hill,San Antonio,TX,78291
-True,True,True,True,True,Jemmy Halversen,92 Hanover Way,Washington,DC,20062
-True,True,True,True,True,Dennison Camm,1816 Hansons Center,San Antonio,TX,78225
-False,False,False,False,False,Annabella Fahy,020 Hallows Point,Salt Lake City,UT,84145
-False,False,False,False,False,Klarrisa Pavier,236 Arkansas Center,Spokane,WA,99210
-True,True,True,True,True,Kelby Lacer,46118 Lien Parkway,Boston,MA,02216
-True,True,True,True,True,Chloette Plascott,11569 Dahle Park,Fort Worth,TX,76147
+True,False,True,False,False,Mychal Grinikhin,02 Hanover Road,Colorado Springs,CO,80915
+True,False,True,False,False,Ax Grint,3 Cascade Center,Jacksonville,FL,32277
+True,False,True,False,False,Courtnay Tracey,39 Swallow Plaza,Salt Lake City,UT,84152
+True,False,True,False,False,Marielle Vittery,2649 Everett Crossing,Springfield,MO,65805
+True,False,True,True,False,Nickola Ingerith,6 Logan Trail,San Bernardino,CA,92405
+True,False,True,True,False,Fabian Shemmans,61958 8th Terrace,Terre Haute,IN,47812
+False,False,False,True,False,Kit Ivetts,22622 Rockefeller Park,Carlsbad,CA,92013
+False,False,False,True,False,Kirsteni Pavie,6 Mccormick Court,Albuquerque,NM,87195
+False,False,True,True,False,Elysee Pignon,437 Porter Plaza,Irvine,CA,92612
+False,False,True,True,False,Emmalyn Vaune,95226 3rd Crossing,Paterson,NJ,07505
+True,True,True,False,True,Rosemaria Wolford,13952 Hayes Point,Los Angeles,CA,90055
+True,True,True,False,True,Beret Ivanin,989 Butterfield Hill,San Antonio,TX,78291
+True,True,True,False,True,Jemmy Halversen,92 Hanover Way,Washington,DC,20062
+True,False,False,False,True,Dennison Camm,1816 Hansons Center,San Antonio,TX,78225
+True,False,False,False,True,Annabella Fahy,020 Hallows Point,Salt Lake City,UT,84145
+True,False,False,False,True,Klarrisa Pavier,236 Arkansas Center,Spokane,WA,99210
+True,True,True,True,False,Kelby Lacer,46118 Lien Parkway,Boston,MA,02216
+True,True,True,True,False,Chloette Plascott,11569 Dahle Park,Fort Worth,TX,76147
 True,True,True,True,True,Tom Nusche,2 Blue Bill Park Court,Saint Petersburg,FL,33715
 True,True,True,True,True,Christoph Fuller,832 Mifflin Street,Pensacola,FL,32595
 True,True,True,True,True,Janella Minillo,50 Artisan Alley,Saint Paul,MN,55103
-False,False,False,False,False,Sibilla Stollenwerck,43 Ohio Park,Jacksonville,FL,32236
-True,True,True,True,True,Stefanie Canto,6472 Blackbird Court,Schaumburg,IL,60193
+False,False,True,True,True,Sibilla Stollenwerck,43 Ohio Park,Jacksonville,FL,32236
+False,False,True,True,True,Stefanie Canto,6472 Blackbird Court,Schaumburg,IL,60193
 True,True,True,True,True,Nathalia Stampfer,36 Welch Park,Lubbock,TX,79410
 True,True,True,True,True,Harriett Carabet,2989 Forest Center,Little Rock,AR,72215
 True,True,True,True,True,Martie Yerborn,5952 Hintze Court,Seattle,WA,98166
-False,False,False,False,False,Barbra Janeczek,96 Mayfield Hill,Boise,ID,83716
-True,True,True,True,True,Edward Lehr,675 Goodland Avenue,Mobile,AL,36689
-True,True,True,True,True,Carlen Zimmer,744 Buena Vista Trail,Louisville,KY,40215
-True,True,True,True,True,Pascal Kahan,21715 High Crossing Place,Norfolk,VA,23514
-False,False,False,False,False,Tobe Purton,08922 Burrows Way,San Antonio,TX,78296
-True,True,True,True,True,Allegra Scotchmur,2 Oriole Drive,Pasadena,CA,91125
-False,False,False,False,False,Ethelred Howgego,022 Milwaukee Street,Annapolis,MD,21405
-True,True,True,True,True,Gard Pellatt,2608 Waywood Plaza,Topeka,KS,66642
-False,False,False,False,False,Joanne Wreford,673 Eastwood Point,Arlington,VA,22234
-False,False,False,False,False,Cobby Bagg,51773 Schiller Road,Kansas City,MO,64199
-False,False,False,False,False,Bernhard Boxill,896 3rd Plaza,Chattanooga,TN,37405
-False,False,False,False,False,Meghan Coy,596 Crownhardt Plaza,San Antonio,TX,78215
-True,True,True,True,True,Dave Bowdidge,1665 Dayton Avenue,Norfolk,VA,23509
-False,False,False,False,False,Allyce Schachter,132 Rigney Trail,New Haven,CT,06520
-False,False,False,False,False,Farlee Farndon,199 Tony Court,Richmond,VA,23272
-False,False,False,False,False,Lancelot Featherby,824 Bonner Plaza,Decatur,GA,30033
-False,False,False,False,False,Tabatha Hebson,5068 Fordem Park,El Paso,TX,79955
-False,False,False,False,False,Brigid Hebbron,1 Hovde Drive,Pittsburgh,PA,15250
-True,True,True,True,True,Deva De Beauchamp,37 Vidon Road,Detroit,MI,48206
-True,True,True,True,True,Wenda Seymour,0528 Artisan Drive,Youngstown,OH,44505
-False,False,False,False,False,Jeremiah Phillcock,633 Derek Way,Cedar Rapids,IA,52410
-False,False,False,False,False,Wiley Cluer,5888 Blue Bill Park Park,Huntington,WV,25775
-False,False,False,False,False,Rodina Musto,86 Old Gate Street,Lake Charles,LA,70616
-False,False,False,False,False,Allyn Melbury,11 Lakewood Crossing,Philadelphia,PA,19125
-True,True,True,True,True,Carolee Edkins,4 Miller Parkway,Evanston,IL,60208
-True,True,True,True,True,Valenka Woodroff,0754 Hazelcrest Avenue,Minneapolis,MN,55436
-False,False,False,False,False,Kevon MacShirrie,1288 Anthes Circle,Oakland,CA,94611
-True,True,True,True,True,Reinhard Medendorp,790 Kipling Way,Brockton,MA,02405
-False,False,False,False,False,Zaccaria Karlsson,545 Parkside Court,Mesquite,TX,75185
-True,True,True,True,True,Cristal Carse,4949 Karstens Point,Mobile,AL,36689
-True,True,True,True,True,Kordula Sollon,41 School Plaza,Everett,WA,98206
-True,True,True,True,True,Orlando Clac,03171 Sauthoff Alley,New Bedford,MA,02745
-True,True,True,True,True,Hailey Cobley,7284 Erie Street,Knoxville,TN,37995
+False,True,False,False,False,Barbra Janeczek,96 Mayfield Hill,Boise,ID,83716
+True,True,True,False,True,Edward Lehr,675 Goodland Avenue,Mobile,AL,36689
+True,True,True,False,True,Carlen Zimmer,744 Buena Vista Trail,Louisville,KY,40215
+True,True,True,False,True,Pascal Kahan,21715 High Crossing Place,Norfolk,VA,23514
+True,True,True,False,True,Tobe Purton,08922 Burrows Way,San Antonio,TX,78296
+True,False,True,True,False,Allegra Scotchmur,2 Oriole Drive,Pasadena,CA,91125
+True,False,True,True,False,Ethelred Howgego,022 Milwaukee Street,Annapolis,MD,21405
+True,False,False,True,False,Gard Pellatt,2608 Waywood Plaza,Topeka,KS,66642
+False,False,False,False,True,Joanne Wreford,673 Eastwood Point,Arlington,VA,22234
+False,False,False,False,True,Cobby Bagg,51773 Schiller Road,Kansas City,MO,64199
+False,False,False,True,True,Bernhard Boxill,896 3rd Plaza,Chattanooga,TN,37405
+False,False,False,True,True,Meghan Coy,596 Crownhardt Plaza,San Antonio,TX,78215
+True,False,False,False,True,Dave Bowdidge,1665 Dayton Avenue,Norfolk,VA,23509
+True,False,False,False,True,Allyce Schachter,132 Rigney Trail,New Haven,CT,06520
+True,False,False,False,True,Farlee Farndon,199 Tony Court,Richmond,VA,23272
+False,False,False,True,False,Lancelot Featherby,824 Bonner Plaza,Decatur,GA,30033
+False,False,False,True,False,Tabatha Hebson,5068 Fordem Park,El Paso,TX,79955
+False,False,False,True,False,Brigid Hebbron,1 Hovde Drive,Pittsburgh,PA,15250
+False,False,False,True,False,Deva De Beauchamp,37 Vidon Road,Detroit,MI,48206
+True,False,False,False,True,Wenda Seymour,0528 Artisan Drive,Youngstown,OH,44505
+True,False,False,False,True,Jeremiah Phillcock,633 Derek Way,Cedar Rapids,IA,52410
+True,False,False,False,True,Wiley Cluer,5888 Blue Bill Park Park,Huntington,WV,25775
+True,False,False,False,True,Rodina Musto,86 Old Gate Street,Lake Charles,LA,70616
+False,True,True,False,True,Allyn Melbury,11 Lakewood Crossing,Philadelphia,PA,19125
+False,True,True,False,True,Carolee Edkins,4 Miller Parkway,Evanston,IL,60208
+False,True,True,False,True,Valenka Woodroff,0754 Hazelcrest Avenue,Minneapolis,MN,55436
+False,True,True,False,True,Kevon MacShirrie,1288 Anthes Circle,Oakland,CA,94611
+True,False,True,True,False,Reinhard Medendorp,790 Kipling Way,Brockton,MA,02405
+True,False,True,True,False,Zaccaria Karlsson,545 Parkside Court,Mesquite,TX,75185
+True,False,True,True,False,Cristal Carse,4949 Karstens Point,Mobile,AL,36689
+True,True,True,True,False,Kordula Sollon,41 School Plaza,Everett,WA,98206
+True,True,True,True,False,Orlando Clac,03171 Sauthoff Alley,New Bedford,MA,02745
+True,True,True,True,False,Hailey Cobley,7284 Erie Street,Knoxville,TN,37995
 True,True,True,True,True,Elaine Gutierrez,2239 Crownhardt Parkway,Hartford,CT,06145
 True,True,True,True,True,Rosabella Fernely,294 Westend Pass,Saint Louis,MO,63167
 True,True,True,True,True,Baxy Bogace,35 Anhalt Junction,Portland,OR,97221
-True,True,True,True,True,Godwin Jerg,4 Claremont Street,Santa Ana,CA,92705
-False,False,False,False,False,Sherlock Baiss,7173 Algoma Junction,Chicago,IL,60691
-True,True,True,True,True,Fiona Luce,6423 Quincy Center,Everett,WA,98206
-False,False,False,False,False,Iseabal Hadlington,339 Magdeline Parkway,Saint Louis,MO,63116
-False,False,False,False,False,Mada Ahern,13389 Riverside Parkway,Sioux Falls,SD,57110
-True,True,True,True,True,Willamina Jeannot,40 North Center,Washington,DC,20088
-False,False,False,False,False,Brandi Juszczyk,0614 Golden Leaf Lane,Boston,MA,02216
-True,True,True,True,True,Coraline Atley,77 Summer Ridge Alley,Memphis,TN,38161
-True,True,True,True,True,Alma Janney,449 Melody Circle,Seattle,WA,98175
-False,False,False,False,False,Sydney Kibbe,09215 Marquette Lane,Bakersfield,CA,93311
-True,True,True,True,True,Vinnie Royse,4837 Oak Valley Trail,Humble,TX,77346
-True,True,True,True,True,Caryl Haton,14983 Straubel Junction,Springfield,IL,62723
+True,False,False,False,False,Godwin Jerg,4 Claremont Street,Santa Ana,CA,92705
+True,False,False,False,False,Sherlock Baiss,7173 Algoma Junction,Chicago,IL,60691
+True,True,False,False,True,Fiona Luce,6423 Quincy Center,Everett,WA,98206
+True,True,False,False,True,Iseabal Hadlington,339 Magdeline Parkway,Saint Louis,MO,63116
+True,True,False,False,True,Mada Ahern,13389 Riverside Parkway,Sioux Falls,SD,57110
+True,False,True,True,True,Willamina Jeannot,40 North Center,Washington,DC,20088
+True,False,True,True,True,Brandi Juszczyk,0614 Golden Leaf Lane,Boston,MA,02216
+True,False,True,True,True,Coraline Atley,77 Summer Ridge Alley,Memphis,TN,38161
+True,False,True,True,True,Alma Janney,449 Melody Circle,Seattle,WA,98175
+False,True,False,True,True,Sydney Kibbe,09215 Marquette Lane,Bakersfield,CA,93311
+False,True,False,True,True,Vinnie Royse,4837 Oak Valley Trail,Humble,TX,77346
+False,True,False,True,True,Caryl Haton,14983 Straubel Junction,Springfield,IL,62723
 False,False,False,False,False,Horacio Mortel,1312 Arapahoe Center,El Paso,TX,88579
 False,False,False,False,False,Ashbey Heffernan,438 Valley Edge Way,San Antonio,TX,78210
-False,False,False,False,False,Felike Cobden,4497 Sauthoff Street,Pensacola,FL,32526
-False,False,False,False,False,Kassia Tingley,4 Corben Point,New Orleans,LA,70187
-False,False,False,False,False,Michale Riccard,3 Debs Place,Youngstown,OH,44555
-True,True,True,True,True,Yardley MacKean,0 Michigan Court,Virginia Beach,VA,23464
-False,False,False,False,False,Elane Baldung,7 Mitchell Drive,Kansas City,MO,64193
-False,False,False,False,False,Karlene Boase,0 Marquette Alley,Gatesville,TX,76598
-True,True,True,True,True,Gustavus Barnham,88 Blackbird Place,Portsmouth,NH,03804
-True,True,True,True,True,Marion Golland,6 Morrow Point,Gainesville,FL,32610
-True,True,True,True,True,Nadya Gobert,5502 Dakota Way,Huntsville,AL,35815
-True,True,True,True,True,Ashia Rolling,8 Northfield Point,Pasadena,CA,91117
-True,True,True,True,True,Charlotta Rosie,49 Forest Dale Drive,Albany,NY,12262
-False,False,False,False,False,Johnnie Macon,2653 Nevada Road,San Bernardino,CA,92415
-False,False,False,False,False,Stanislas Pucker,35851 Golf Course Way,Colorado Springs,CO,80920
-True,True,True,True,True,Kirbee Walmsley,6 Erie Place,Washington,DC,20029
-False,False,False,False,False,Reginald Rutherford,7033 Novick Street,El Paso,TX,79905
-False,False,False,False,False,Olivie Peyto,260 Golf Pass,Tulsa,OK,74133
-True,True,True,True,True,Brennan Foulkes,2287 Golf View Alley,Omaha,NE,68197
-False,False,False,False,False,Joseph Jerman,48 Drewry Junction,Honolulu,HI,96805
-True,True,True,True,True,Joanie Antognozzii,07 Sommers Plaza,Lawrenceville,GA,30245
-False,False,False,False,False,Sybilla Noone,712 Independence Pass,Lawrenceville,GA,30045
-False,False,False,False,False,Vikki Georgius,76 Independence Circle,Boulder,CO,80328
-False,False,False,False,False,Mel Pavey,894 Superior Junction,Newton,MA,02458
+False,False,True,True,False,Felike Cobden,4497 Sauthoff Street,Pensacola,FL,32526
+False,False,True,True,False,Kassia Tingley,4 Corben Point,New Orleans,LA,70187
+False,True,False,True,True,Michale Riccard,3 Debs Place,Youngstown,OH,44555
+False,True,False,True,True,Yardley MacKean,0 Michigan Court,Virginia Beach,VA,23464
+False,True,False,True,True,Elane Baldung,7 Mitchell Drive,Kansas City,MO,64193
+False,True,True,True,False,Karlene Boase,0 Marquette Alley,Gatesville,TX,76598
+False,True,True,True,False,Gustavus Barnham,88 Blackbird Place,Portsmouth,NH,03804
+False,True,True,True,False,Marion Golland,6 Morrow Point,Gainesville,FL,32610
+False,True,True,True,False,Nadya Gobert,5502 Dakota Way,Huntsville,AL,35815
+True,True,False,False,True,Ashia Rolling,8 Northfield Point,Pasadena,CA,91117
+True,True,False,False,True,Charlotta Rosie,49 Forest Dale Drive,Albany,NY,12262
+False,False,True,False,True,Johnnie Macon,2653 Nevada Road,San Bernardino,CA,92415
+False,False,True,False,True,Stanislas Pucker,35851 Golf Course Way,Colorado Springs,CO,80920
+False,False,True,False,True,Kirbee Walmsley,6 Erie Place,Washington,DC,20029
+False,False,False,True,True,Reginald Rutherford,7033 Novick Street,El Paso,TX,79905
+False,False,False,True,True,Olivie Peyto,260 Golf Pass,Tulsa,OK,74133
+True,False,True,True,False,Brennan Foulkes,2287 Golf View Alley,Omaha,NE,68197
+True,False,True,True,False,Joseph Jerman,48 Drewry Junction,Honolulu,HI,96805
+True,False,True,True,False,Joanie Antognozzii,07 Sommers Plaza,Lawrenceville,GA,30245
+False,False,True,False,False,Sybilla Noone,712 Independence Pass,Lawrenceville,GA,30045
+False,False,True,False,False,Vikki Georgius,76 Independence Circle,Boulder,CO,80328
+False,False,True,False,False,Mel Pavey,894 Superior Junction,Newton,MA,02458
 True,True,True,True,True,Judi Gribbin,72 Karstens Park,Bethesda,MD,20892
-False,False,False,False,False,Frank Demeter,8279 Kings Place,Roanoke,VA,24040
-True,True,True,True,True,Bess Grishukov,4672 Sommers Court,New York City,NY,10170
-False,False,False,False,False,Tirrell Reeson,4977 Dorton Terrace,New York City,NY,10004
+False,True,False,False,False,Frank Demeter,8279 Kings Place,Roanoke,VA,24040
+False,True,False,False,False,Bess Grishukov,4672 Sommers Court,New York City,NY,10170
+False,True,False,False,False,Tirrell Reeson,4977 Dorton Terrace,New York City,NY,10004
 True,True,True,True,True,Gena Wilbore,0163 Mariners Cove Lane,Tulsa,OK,74133
 True,True,True,True,True,Chere Stenners,50 Marcy Center,Charlotte,NC,28205
 True,True,True,True,True,Juieta Bruyntjes,91 Forster Drive,Fort Worth,TX,76115
-False,False,False,False,False,Dinnie Girogetti,02420 Sycamore Street,Spokane,WA,99210
-False,False,False,False,False,Coraline De Ortega,70 Spohn Avenue,Lakeland,FL,33805
-True,True,True,True,True,Feliza Harvett,35001 Maple Wood Point,Sacramento,CA,95818
-False,False,False,False,False,Ashlen Alejandro,08 Melvin Park,Salem,OR,97312
-True,True,True,True,True,Noella Rooney,054 Little Fleur Alley,Manchester,NH,03105
-False,False,False,False,False,Zackariah McColm,12 Merry Place,El Paso,TX,88514
-True,True,True,True,True,Barnett Rhule,8 Hansons Plaza,Chicago,IL,60641
-True,True,True,True,True,Natal Turfus,24 Troy Lane,Battle Creek,MI,49018
-True,True,True,True,True,Ramsey Mation,20956 Elmside Drive,Austin,TX,78726
-True,True,True,True,True,Ceciley Bartram,13 Miller Way,Lynn,MA,01905
-False,False,False,False,False,Sally Bealton,626 Homewood Pass,Denver,CO,80217
-False,False,False,False,False,Zachariah Tille,6 Cambridge Parkway,Monroe,LA,71208
-True,True,True,True,True,Lyn Streets,2 Express Point,Houston,TX,77060
-True,True,True,True,True,Rodolph Perutto,04158 Thierer Circle,Washington,DC,20540
-True,True,True,True,True,Marjory Dorracott,9040 Nevada Pass,Lawrenceville,GA,30245
-True,True,True,True,True,Eddi Liepins,325 Dovetail Circle,Houston,TX,77223
-True,True,True,True,True,Denyse Durning,030 Kedzie Park,Louisville,KY,40220
-False,False,False,False,False,Gregory Fotherby,53 Northfield Road,Monticello,MN,55585
-True,True,True,True,True,Howard Curneen,38 Northland Trail,Punta Gorda,FL,33982
-True,True,True,True,True,Jasun Struther,27965 Morning Plaza,Schaumburg,IL,60193
-True,True,True,True,True,Nefen Harget,92 Maple Wood Drive,Evanston,IL,60208
-False,False,False,False,False,Oliver Churn,75 Almo Court,Boston,MA,02124
-False,False,False,False,False,Pearline Dronsfield,6 Canary Hill,Charlotte,NC,28242
-False,False,False,False,False,Tobit Tattam,39158 Tony Junction,Evansville,IN,47712
-True,True,True,True,True,Jillana Rackam,76868 Drewry Park,Fort Lauderdale,FL,33315
-False,False,False,False,False,Dedie Thorby,03075 Independence Hill,Dallas,TX,75241
-False,False,False,False,False,Annecorinne Brodhead,3962 Springview Street,Memphis,TN,38136
-False,False,False,False,False,Rosabella Yakov,3 Homewood Place,Saint Louis,MO,63143
-True,True,True,True,True,Jacquelin Swatheridge,1 Buhler Circle,Minneapolis,MN,55458
-False,False,False,False,False,Celle Cutchie,34696 Laurel Park,Brooksville,FL,34605
-True,True,True,True,True,Hamel Pybus,7977 Gerald Avenue,Austin,TX,78764
-False,False,False,False,False,Nikos Antyukhin,5 Prairie Rose Alley,Fort Lauderdale,FL,33355
-False,False,False,False,False,Hal Eakins,1215 Lakewood Way,Pittsburgh,PA,15261
-False,False,False,False,False,Derrik Edmeads,3 Paget Park,Saint Paul,MN,55146
-True,True,True,True,True,Lorita Delamar,44739 Utah Lane,Pueblo,CO,81005
-False,False,False,False,False,Stewart Scranedge,19 Prairieview Center,Saint Paul,MN,55114
-True,True,True,True,True,Fabio Skitterel,83 Larry Road,Baltimore,MD,21281
-True,True,True,True,True,Dougie Janku,41 Green Center,Fort Smith,AR,72905
-False,False,False,False,False,Nester Aickin,5 Tomscot Road,Montgomery,AL,36104
-False,False,False,False,False,Ilsa Lesor,65 North Center,Philadelphia,PA,19115
-False,False,False,False,False,Meade Kenworth,8 Ryan Crossing,Flushing,NY,11355
-False,False,False,False,False,Rabi McCuffie,3 Carberry Drive,Washington,DC,20580
-False,False,False,False,False,Reyna Klimashevich,5 Basil Road,Kent,WA,98042
-False,False,False,False,False,Della Dunlop,07 Vermont Trail,Salt Lake City,UT,84199
-True,True,True,True,True,Donny Izchaki,2 Rieder Park,Fort Worth,TX,76121
-False,False,False,False,False,Alyda Kleint,1 Namekagon Center,Shawnee Mission,KS,66286
-False,False,False,False,False,Deina Donett,7 Corry Trail,Newark,NJ,07104
-False,False,False,False,False,Doloritas Cicullo,716 Arapahoe Lane,Minneapolis,MN,55487
-True,True,True,True,True,Nessi Gingedale,67599 Burrows Avenue,San Francisco,CA,94105
-True,True,True,True,True,Adelheid Hallam,56181 Armistice Junction,Dallas,TX,75221
-False,False,False,False,False,Raffarty Hugk,87 Carberry Plaza,New Haven,CT,06520
-False,False,False,False,False,Joshua Hawton,257 Quincy Drive,Conroe,TX,77305
-False,False,False,False,False,Latrina Obern,47865 Ohio Street,Akron,OH,44310
-False,False,False,False,False,Otis Roos,7 Monterey Hill,Albuquerque,NM,87180
-False,False,False,False,False,Joelly Cruden,5400 Milwaukee Terrace,North Little Rock,AR,72199
-True,True,True,True,True,Cassie Iacobassi,4214 Gateway Crossing,Port Saint Lucie,FL,34985
-False,False,False,False,False,Aron Keilty,1 Anthes Place,Terre Haute,IN,47805
-True,True,True,True,True,Lorrin Iacovino,2 Anzinger Parkway,Syracuse,NY,13210
-True,True,True,True,True,Arlene Simmins,62 Troy Circle,Tampa,FL,33633
-True,True,True,True,True,Daron Venning,586 Elgar Street,Denver,CO,80262
-False,False,False,False,False,Aguste Goulborn,07092 Coleman Point,Greeley,CO,80638
-True,True,True,True,True,Malanie Whight,004 Lakewood Gardens Plaza,Saint Paul,MN,55146
-True,True,True,True,True,Adorne Tottman,40652 Westridge Lane,Rochester,MN,55905
-True,True,True,True,True,Munroe Slaughter,0537 Sunnyside Way,Portsmouth,NH,00214
-False,False,False,False,False,Errol Fibbings,9106 Springs Pass,San Antonio,TX,78210
-True,True,True,True,True,Petronille Bloomer,153 Del Mar Road,Honolulu,HI,96850
-False,False,False,False,False,Feodora Cockshtt,406 Lyons Circle,Memphis,TN,38114
-True,True,True,True,True,Karita Rehorek,45110 Judy Plaza,Charleston,WV,25313
-False,False,False,False,False,Abbie Auty,4 Mitchell Avenue,Bronx,NY,10474
+False,True,False,False,True,Dinnie Girogetti,02420 Sycamore Street,Spokane,WA,99210
+False,True,False,False,True,Coraline De Ortega,70 Spohn Avenue,Lakeland,FL,33805
+True,False,True,True,False,Feliza Harvett,35001 Maple Wood Point,Sacramento,CA,95818
+True,False,True,True,False,Ashlen Alejandro,08 Melvin Park,Salem,OR,97312
+True,False,True,True,False,Noella Rooney,054 Little Fleur Alley,Manchester,NH,03105
+False,True,False,False,False,Zackariah McColm,12 Merry Place,El Paso,TX,88514
+False,True,False,False,False,Barnett Rhule,8 Hansons Plaza,Chicago,IL,60641
+True,True,False,True,True,Natal Turfus,24 Troy Lane,Battle Creek,MI,49018
+True,True,False,True,True,Ramsey Mation,20956 Elmside Drive,Austin,TX,78726
+True,True,False,True,True,Ceciley Bartram,13 Miller Way,Lynn,MA,01905
+False,False,True,True,True,Sally Bealton,626 Homewood Pass,Denver,CO,80217
+False,False,True,True,True,Zachariah Tille,6 Cambridge Parkway,Monroe,LA,71208
+False,False,True,True,True,Lyn Streets,2 Express Point,Houston,TX,77060
+False,False,True,True,True,Rodolph Perutto,04158 Thierer Circle,Washington,DC,20540
+True,True,True,False,True,Marjory Dorracott,9040 Nevada Pass,Lawrenceville,GA,30245
+True,True,True,False,True,Eddi Liepins,325 Dovetail Circle,Houston,TX,77223
+True,True,True,False,True,Denyse Durning,030 Kedzie Park,Louisville,KY,40220
+False,True,True,True,True,Gregory Fotherby,53 Northfield Road,Monticello,MN,55585
+False,True,True,True,True,Howard Curneen,38 Northland Trail,Punta Gorda,FL,33982
+False,True,True,True,True,Jasun Struther,27965 Morning Plaza,Schaumburg,IL,60193
+False,True,True,True,True,Nefen Harget,92 Maple Wood Drive,Evanston,IL,60208
+False,True,False,False,True,Oliver Churn,75 Almo Court,Boston,MA,02124
+False,True,False,False,True,Pearline Dronsfield,6 Canary Hill,Charlotte,NC,28242
+False,True,False,False,False,Tobit Tattam,39158 Tony Junction,Evansville,IN,47712
+False,True,False,False,False,Jillana Rackam,76868 Drewry Park,Fort Lauderdale,FL,33315
+False,True,False,False,False,Dedie Thorby,03075 Independence Hill,Dallas,TX,75241
+False,False,True,False,True,Annecorinne Brodhead,3962 Springview Street,Memphis,TN,38136
+False,False,True,False,True,Rosabella Yakov,3 Homewood Place,Saint Louis,MO,63143
+False,False,True,False,True,Jacquelin Swatheridge,1 Buhler Circle,Minneapolis,MN,55458
+False,True,False,True,False,Celle Cutchie,34696 Laurel Park,Brooksville,FL,34605
+False,True,False,True,False,Hamel Pybus,7977 Gerald Avenue,Austin,TX,78764
+False,False,False,True,True,Nikos Antyukhin,5 Prairie Rose Alley,Fort Lauderdale,FL,33355
+False,False,False,True,True,Hal Eakins,1215 Lakewood Way,Pittsburgh,PA,15261
+False,False,False,True,True,Derrik Edmeads,3 Paget Park,Saint Paul,MN,55146
+False,False,False,True,True,Lorita Delamar,44739 Utah Lane,Pueblo,CO,81005
+False,True,True,False,True,Stewart Scranedge,19 Prairieview Center,Saint Paul,MN,55114
+False,True,True,False,True,Fabio Skitterel,83 Larry Road,Baltimore,MD,21281
+False,True,True,False,True,Dougie Janku,41 Green Center,Fort Smith,AR,72905
+False,True,True,False,True,Nester Aickin,5 Tomscot Road,Montgomery,AL,36104
+False,False,False,False,True,Ilsa Lesor,65 North Center,Philadelphia,PA,19115
+False,False,False,False,True,Meade Kenworth,8 Ryan Crossing,Flushing,NY,11355
+False,False,False,False,True,Rabi McCuffie,3 Carberry Drive,Washington,DC,20580
+False,False,False,False,True,Reyna Klimashevich,5 Basil Road,Kent,WA,98042
+False,True,False,True,False,Della Dunlop,07 Vermont Trail,Salt Lake City,UT,84199
+False,True,False,True,False,Donny Izchaki,2 Rieder Park,Fort Worth,TX,76121
+False,False,True,False,True,Alyda Kleint,1 Namekagon Center,Shawnee Mission,KS,66286
+False,False,True,False,True,Deina Donett,7 Corry Trail,Newark,NJ,07104
+False,True,True,True,True,Doloritas Cicullo,716 Arapahoe Lane,Minneapolis,MN,55487
+False,True,True,True,True,Nessi Gingedale,67599 Burrows Avenue,San Francisco,CA,94105
+False,True,True,True,True,Adelheid Hallam,56181 Armistice Junction,Dallas,TX,75221
+False,False,False,True,True,Raffarty Hugk,87 Carberry Plaza,New Haven,CT,06520
+False,False,False,True,True,Joshua Hawton,257 Quincy Drive,Conroe,TX,77305
+False,False,False,True,True,Latrina Obern,47865 Ohio Street,Akron,OH,44310
+False,False,True,True,False,Otis Roos,7 Monterey Hill,Albuquerque,NM,87180
+False,False,True,True,False,Joelly Cruden,5400 Milwaukee Terrace,North Little Rock,AR,72199
+False,False,True,True,False,Cassie Iacobassi,4214 Gateway Crossing,Port Saint Lucie,FL,34985
+False,True,True,True,True,Aron Keilty,1 Anthes Place,Terre Haute,IN,47805
+False,True,True,True,True,Lorrin Iacovino,2 Anzinger Parkway,Syracuse,NY,13210
+False,True,True,True,True,Arlene Simmins,62 Troy Circle,Tampa,FL,33633
+False,True,True,True,True,Daron Venning,586 Elgar Street,Denver,CO,80262
+False,True,False,True,True,Aguste Goulborn,07092 Coleman Point,Greeley,CO,80638
+False,True,False,True,True,Malanie Whight,004 Lakewood Gardens Plaza,Saint Paul,MN,55146
+False,True,False,True,True,Adorne Tottman,40652 Westridge Lane,Rochester,MN,55905
+True,False,True,False,True,Munroe Slaughter,0537 Sunnyside Way,Portsmouth,NH,00214
+True,False,True,False,True,Errol Fibbings,9106 Springs Pass,San Antonio,TX,78210
+True,False,True,False,True,Petronille Bloomer,153 Del Mar Road,Honolulu,HI,96850
+False,True,False,True,False,Feodora Cockshtt,406 Lyons Circle,Memphis,TN,38114
+False,True,False,True,False,Karita Rehorek,45110 Judy Plaza,Charleston,WV,25313
+False,True,False,True,False,Abbie Auty,4 Mitchell Avenue,Bronx,NY,10474
 False,False,False,False,False,Emmett MacKean,16 Little Fleur Road,Wilmington,DE,19810
 False,False,False,False,False,Talbot Ghilardi,7 Warner Plaza,Saint Louis,MO,63158
 True,True,True,True,True,Luke Yemm,5 Laurel Plaza,Atlanta,GA,31119
 True,True,True,True,True,Morna Tongue,31 Marquette Street,San Francisco,CA,94159
-True,True,True,True,True,Margaux Dockree,046 Petterle Parkway,Syracuse,NY,13224
-False,False,False,False,False,Winnie Carney,84 Dunning Circle,Jackson,TN,38308
-False,False,False,False,False,Kissee Church,3415 Chive Alley,Dallas,TX,75323
-False,False,False,False,False,Cinnamon Manneville,16 Bunting Junction,Pittsburgh,PA,15250
-False,False,False,False,False,Yurik Aleso,1975 Goodland Point,Tuscaloosa,AL,35487
-False,False,False,False,False,Del Bernardotte,39 Hazelcrest Road,Austin,TX,78710
-True,True,True,True,True,Ermanno Pottle,28184 Schiller Park,North Little Rock,AR,72199
-True,True,True,True,True,Emmet Reeder,48 Dottie Avenue,Englewood,CO,80150
-False,False,False,False,False,Darryl Hamor,0 Myrtle Drive,Manchester,NH,03105
-False,False,False,False,False,Layton Creech,49 Sycamore Alley,Houston,TX,77085
-False,False,False,False,False,Andromache Eaken,4294 Elgar Street,Amarillo,TX,79105
-True,True,True,True,True,Bertina Le Estut,7477 Vahlen Parkway,Houston,TX,77065
-True,True,True,True,True,Esma Leaf,3 Carey Lane,Phoenix,AZ,85040
-True,True,True,True,True,Bambie Corss,44 Bluejay Parkway,Buffalo,NY,14215
-True,True,True,True,True,Jory Forrester,5 Brickson Park Pass,Elizabeth,NJ,07208
-False,False,False,False,False,Buiron Cranmor,51 Bunting Park,Albany,NY,12262
-False,False,False,False,False,Sean Garz,7 Kedzie Plaza,Detroit,MI,48295
-False,False,False,False,False,Normy Nettleship,3973 Nobel Pass,Lexington,KY,40591
-False,False,False,False,False,Parke Alsford,1328 Talisman Drive,Racine,WI,53405
-True,True,True,True,True,Nikos Russ,20336 Scoville Hill,San Antonio,TX,78210
-True,True,True,True,True,Candida Sineath,0 Brentwood Place,Grand Junction,CO,81505
+True,False,False,False,False,Margaux Dockree,046 Petterle Parkway,Syracuse,NY,13224
+True,False,False,False,False,Winnie Carney,84 Dunning Circle,Jackson,TN,38308
+True,False,False,False,False,Kissee Church,3415 Chive Alley,Dallas,TX,75323
+False,False,False,False,True,Cinnamon Manneville,16 Bunting Junction,Pittsburgh,PA,15250
+False,False,False,False,True,Yurik Aleso,1975 Goodland Point,Tuscaloosa,AL,35487
+False,False,False,False,True,Del Bernardotte,39 Hazelcrest Road,Austin,TX,78710
+True,True,False,False,False,Ermanno Pottle,28184 Schiller Park,North Little Rock,AR,72199
+True,True,False,False,False,Emmet Reeder,48 Dottie Avenue,Englewood,CO,80150
+True,True,False,False,False,Darryl Hamor,0 Myrtle Drive,Manchester,NH,03105
+False,True,True,False,True,Layton Creech,49 Sycamore Alley,Houston,TX,77085
+False,True,False,False,False,Andromache Eaken,4294 Elgar Street,Amarillo,TX,79105
+True,True,True,True,False,Bertina Le Estut,7477 Vahlen Parkway,Houston,TX,77065
+True,True,True,True,False,Esma Leaf,3 Carey Lane,Phoenix,AZ,85040
+True,True,True,True,False,Bambie Corss,44 Bluejay Parkway,Buffalo,NY,14215
+True,True,True,True,False,Jory Forrester,5 Brickson Park Pass,Elizabeth,NJ,07208
+False,False,True,True,False,Buiron Cranmor,51 Bunting Park,Albany,NY,12262
+False,False,True,True,False,Sean Garz,7 Kedzie Plaza,Detroit,MI,48295
+False,False,True,True,False,Normy Nettleship,3973 Nobel Pass,Lexington,KY,40591
+False,False,True,True,False,Parke Alsford,1328 Talisman Drive,Racine,WI,53405
+False,False,True,True,False,Nikos Russ,20336 Scoville Hill,San Antonio,TX,78210
+False,False,True,True,False,Candida Sineath,0 Brentwood Place,Grand Junction,CO,81505

@@ -37,11 +37,11 @@ namespace RDD.Test.Console.Domain
                             {
                                 var record = new Row
                                 {
-                                    Flag1 = Convert.ToBoolean(csv.GetField("Flag" + i.ToString())),
-                                    Flag2 = Convert.ToBoolean(csv.GetField("Flag" + i.ToString())),
-                                    Flag3 = Convert.ToBoolean(csv.GetField("Flag" + i.ToString())),
-                                    Flag4 = Convert.ToBoolean(csv.GetField("Flag" + i.ToString())),
-                                    Flag5 = Convert.ToBoolean(csv.GetField("Flag" + i.ToString())),
+                                    Flag1 = Convert.ToBoolean(csv.GetField("Flag1")),
+                                    Flag2 = Convert.ToBoolean(csv.GetField("Flag2")),
+                                    Flag3 = Convert.ToBoolean(csv.GetField("Flag3")),
+                                    Flag4 = Convert.ToBoolean(csv.GetField("Flag4")),
+                                    Flag5 = Convert.ToBoolean(csv.GetField("Flag5")),
                                     Name = csv.GetField("Name" + i.ToString()),
                                     Address = csv.GetField("Address" + i.ToString()),
                                     City = csv.GetField("City" + i.ToString()),
